@@ -1,0 +1,1 @@
+netty和springboot整合，实现高性能RPC NIO分布式通信，包含对象序列化，TCP粘包和拆包
